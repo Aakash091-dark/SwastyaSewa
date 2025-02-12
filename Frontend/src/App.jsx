@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      Welcome to SwastyaSewa - A National Telemedicine Service..
+      Welcome to SwastyaSewa - A National Telemedicine Service.
     </>
   )
 }
